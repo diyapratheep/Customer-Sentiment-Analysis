@@ -4,7 +4,7 @@ Idea: Sentiment Analysis
 
 The primary goal is to develop a sentiment analysis model that can accurately classify the sentiment of text data, providing valuable insights into public opinion, customer feedback, and social media trends.
 
-Data Set : 
+Data Set : (link)[https://www.kaggle.com/code/mmmarchetti/play-store-sentiment-analysis-of-user-reviews/input]
 
 # Key Concepts and Challenges:
 
